@@ -1,5 +1,8 @@
 {
   "version": "1.0",
   "greeting": "Привет!",
-  "message": "Добро пожаловать в программу."
+  "select_language": "Выберите язык (en/ru):",
+  "download_message": "{filename} был {action}.",
+  "incorrect_language_message": "Некорректный выбор языка.",
+  "language_changed_message": "Язык изменен на {language}."
 }
