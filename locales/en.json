@@ -1,8 +1,4 @@
 {
   "version": "1.1",
-  "greeting": "Hello!",
-  "select_language": "Select language (en/ru):",
-  "download_message": "{filename} has been {action}.",
-  "incorrect_language_message": "Invalid language selection.",
-  "language_changed_message": "Language has been changed to {language}."
+  "successful_authentication": "Authentication is successful!"
 }
